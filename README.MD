@@ -1,4 +1,4 @@
-# Hello Agent - CSV FAQ AI
+# AI Agent - CSV FAQ
 
 An Agentic AI application that allows users to upload CSV files and ask natural language questions. The system answers strictly based on the uploaded data using a LangChain-powered Pandas DataFrame agent.
 
@@ -21,8 +21,8 @@ An Agentic AI application that allows users to upload CSV files and ask natural 
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/hello-agent-csv.git
-cd hello-agent-csv
+git clone https://github.com/yourusername/ai-agent-csv-faq.git
+cd hai-agent-csv-faq
 pip install -r requirements.txt
 ```
 
