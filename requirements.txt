@@ -5,3 +5,4 @@ langchain-openai
 gdown
 langchain-experimental
 python-dotenv
+tabulate
