@@ -22,7 +22,7 @@ An Agentic AI application that allows users to upload CSV files and ask natural 
 
 ```bash
 git clone https://github.com/yourusername/ai-agent-csv-faq.git
-cd hai-agent-csv-faq
+cd ai-agent-csv-faq
 pip install -r requirements.txt
 ```
 
