@@ -8,7 +8,7 @@ from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe
 # Load API key from .env
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 
 # App UI
 
