@@ -1,4 +1,4 @@
-# 🤖 AI CSV FAQ Agent
+# AI CSV FAQ Agent
 
 A conversational AI app that answers natural language questions from uploaded CSV files — powered by LangChain, OpenAI GPT, and Streamlit.
 
@@ -6,7 +6,7 @@ A conversational AI app that answers natural language questions from uploaded CS
 
 ---
 
-## 📌 What It Does
+## What It Does
 
 Upload any CSV file and ask questions in plain English. The AI agent reads your data and answers intelligently — no SQL, no formulas, just conversation.
 
@@ -17,7 +17,7 @@ Upload any CSV file and ask questions in plain English. The AI agent reads your 
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -29,7 +29,7 @@ Upload any CSV file and ask questions in plain English. The AI agent reads your 
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 **1. Clone the repo**
 ```bash
@@ -75,14 +75,14 @@ ai-agent-csv-faq/
 
 ---
 
-## 🔐 Security
+## Security
 
 - API key stored in `.env` locally (excluded from GitHub via `.gitignore`)
 - On Streamlit Cloud, secrets managed via the Secrets manager
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Radhika Bhong** — Senior Software Engineer  
 [GitHub](https://github.com/radhikabhong) · [LinkedIn](https://linkedin.com/in/radhikabhong)
